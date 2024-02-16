@@ -1,0 +1,59 @@
+[
+    {
+        "name": "order-1",
+        "date": "09.02.24",
+        "total": "3",
+        "totalPrice": "4",
+        "status": "false",
+        "items": [
+          {
+                "name": "item-1",
+                "amount": "2",
+                "price": "1"
+            },
+            {
+              "name": "item-2",
+              "amount": "1",
+              "price": "2"
+          }
+          ]
+      },
+      {
+        "name": "order-2",
+        "date": "11.02.24",
+        "total": "3",
+        "totalPrice": "4",
+        "status": "false",
+        "items": [
+          {
+                "name": "item-1",
+                "amount": "2",
+                "price": "1"
+            },
+            {
+              "name": "item-2",
+              "amount": "1",
+              "price": "2"
+          }
+          ]
+      },
+      {
+        "name": "order-3",
+        "date": "10.02.24",
+        "total": "3",
+        "totalPrice": "4",
+        "status": "true",
+        "items": [
+          {
+                "name": "item-1",
+                "amount": "2",
+                "price": "1"
+            },
+            {
+              "name": "item-2",
+              "amount": "1",
+              "price": "2"
+          }
+          ]
+      }
+]
